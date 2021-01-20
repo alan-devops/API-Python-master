@@ -20,3 +20,4 @@ def translate(event, context):
     }
 
     return response
+    
